@@ -1,0 +1,133 @@
+*{
+	margin: 0;
+	padding: 0;
+	background: #008C9E;
+}
+.topo{
+	width: 100%;
+	height: 15%;
+	background: #005F6B;
+}
+
+.logo img{
+
+	width: 30%;
+	height: 25%;
+	float: left;
+	margin:1% 0% 1% 13%;
+}
+.menu{
+	float:right;
+	background: aqua;
+}
+.menu ul {
+    text-align: center;
+
+}
+
+.menu ul li {
+    display: inline-block;
+    margin: 1em;
+}
+
+
+.menu ul li a {
+    font: 1em Ebrima;
+	color: yellow;
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+    background: #00B4CC;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+.menu ul li a:hover {
+    font: 2em Ebrima;
+    color: #000000;
+    text-decoration: bold;
+
+}
+
+.sidebar{
+	float:left;
+
+	margin: 10% 0% 0% -40%;
+	text-decoration: none;
+
+}
+.sidebar ul {
+	text-decoration: none;
+    text-align: center;
+
+
+}
+
+.sidebar ul li {
+
+    margin: 1em;
+	text-decoration: none;
+	list-style-type:none;
+}
+
+
+.sidebar ul li a {
+    font: 2em Ebrima;
+	color: yellow;
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+    background: #00B4CC;
+    padding: 5px;
+    border: 1px solid #ccc;
+	text-decoration: none;
+
+}
+
+.sidebar ul li a:hover {
+    font: 3em Ebrima;
+    color: #000000;
+    text-decoration: bold;
+
+}
+
+
+li:hover ul {
+	text-decoration:underline;
+    font-weight: bold;
+    background: #ccc;
+}
+
+.post {
+
+	width:65%;
+	text-align: justify;
+	float: right;
+	font: 1.2em Ebrima;
+	margin: 0% 5% 0% 0%;
+	margin-top: 1.5em;
+
+}
+
+.post h3 {
+
+	font: 2em Cooper Black;
+	color: #ffffff;
+}
+
+img {
+
+	height:50%;
+	width: 65%;
+	float: right;
+	margin: 1% 5% 0% 0%;
+}
+
+.rodape{
+
+	width: 100%;
+	height: 25%;
+	margin-top: 20em;
+	margin: 100% 5% 0% 0%;
+	background: #005F6B;
+}

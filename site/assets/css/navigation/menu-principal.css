@@ -1,0 +1,32 @@
+.menu-principal{
+	float:right;
+	background: aqua;
+}
+.menu-principal ul {
+    text-align: center;
+
+}
+
+.menu-principal ul li {
+    display: inline-block;
+    margin: 1em;
+}
+
+
+.menu-principal ul li a {
+    font: 1em Ebrima;
+	color: yellow;
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+    background: #00B4CC;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+.menu-principal ul li a:hover {
+    font: 2em Ebrima;
+    color: #000000;
+    text-decoration: bold;
+
+}

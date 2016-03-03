@@ -1,0 +1,48 @@
+.sidebar{
+	float:left;
+
+	margin: 10% 0% 0% -40%;
+	text-decoration: none;
+
+}
+.sidebar ul {
+	text-decoration: none;
+    text-align: center;
+
+
+}
+
+.sidebar ul li {
+
+  margin: 1em;
+	text-decoration: none;
+	list-style-type:none;
+}
+
+
+.sidebar ul li a {
+    font: 2em Ebrima;
+	  color: yellow;
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+    background: #00B4CC;
+    padding: 5px;
+    border: 1px solid #ccc;
+	text-decoration: none;
+
+}
+
+.sidebar ul li a:hover {
+    font: 3em Ebrima;
+    color: #000000;
+    text-decoration: bold;
+
+}
+
+
+li:hover ul {
+	text-decoration:underline;
+    font-weight: bold;
+    background: #ccc;
+}

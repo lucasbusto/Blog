@@ -1,0 +1,36 @@
+
+.table{
+    height:40%;
+    width: 65%;
+    min-height:100%;
+    position:relative;
+    text-align: justify;
+    float: right;
+    font: 1.2em Ebrima;
+    margin-right: 5%;
+    margin-top: 3%;
+    padding-bottom: 40%;
+}
+
+.table td{
+    height:65%;
+    width: 25%;
+    margin: 1% 0% 0% 0%;
+    padding-bottom: 1%;
+    background: #ffffff;
+    text-align: center;
+}
+.table td form{
+    background-color: #ffffff;
+}
+.table tbody tr td form{
+    background-color: #ffffff;
+}
+.table th{
+    height:65%;
+    width: 25%;
+    margin: 1% 0% 0% 0%;
+    padding-bottom: 1%;
+    background: #ffffff;
+    text-align: center;
+}

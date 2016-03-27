@@ -1,0 +1,21 @@
+/*Posts*/
+
+.post {
+    min-height:100%;
+    position:relative;
+    height:80%;
+    width:65%;
+    text-align: justify;
+    float: right;
+    font: 1.2em Ebrima;
+    margin: 0% 5% 0% 10%;
+    margin-top: 1.5em;
+    padding-bottom: 70%;
+    margin-bottom: 50%
+}
+
+.post h3 {
+
+    font: 1.5em Cooper Black;
+    color: #ffffff;
+}

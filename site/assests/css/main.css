@@ -1,0 +1,13 @@
+/*Imports*/
+@import url("./structure/header.css");
+@import url("./structure/footer.css");
+@import url("./structure/section.css");
+@import url("./navigation/menu-principal.css");
+@import url("./navigation/sidebar.css");
+@import url("./navigation/categorias.css");
+@import url("./blocks/logo.css");
+@import url("./blocks/post.css");
+@import url("./blocks/mensagem.css");
+@import url("./blocks/img.css");
+@charset "UTF-8";
+

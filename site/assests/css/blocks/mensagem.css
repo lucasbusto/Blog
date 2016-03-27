@@ -1,0 +1,35 @@
+/*Mensagens*/
+.mensagem{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 0;
+
+}
+.mensagem p{
+    font: 2em Ebrima;
+    color: #ffffff;
+    float: right;
+    margin-right: 24%;
+    margin-left:0%;
+    margin-top: 3%;
+
+
+}
+.mensagem i{
+    font-size: 3em;
+    color: #ffffff;
+    float: right;
+    margin-right: 48%;
+    margin-top: 8%;
+
+
+}
+.mensagem a button{
+    font-size: 1.5em;
+    font: 1em Ebrima;
+    color: #ffffff;
+    background: #005F6B;
+    margin-top: 24%;
+    margin-left: 10%;
+    margin-right: -38%;
+}
